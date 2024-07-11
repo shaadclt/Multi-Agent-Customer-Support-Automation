@@ -2,7 +2,7 @@
 This project leverages the crewAI AI agents to create a sophisticated support system. These agents provide top-notch support and quality assurance for customer inquiries.
 
 ## Installation
-To get started, you need to install the required libraries using pip. This includes crewai, crewai_tools, langchain_community, and langchain_groq.
+To get started, you need to install the required libraries using pip. This includes 'crewai', 'crewai_tools', 'langchain_community', and 'langchain_groq'.
 
 ## Setup
 1. **Import Necessary Libraries:**
