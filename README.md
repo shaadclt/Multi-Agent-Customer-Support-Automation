@@ -39,4 +39,4 @@ Here's a simple example to demonstrate the usage:
 I welcome contributions to improve the project. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
